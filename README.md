@@ -8,7 +8,7 @@
 ## 🎥 Demo Video
 
 Watch the full walkthrough here:
-[https://www.youtube.com/watch?v=4ytj5k5IwjQ](https://www.youtube.com/watch?v=4ytj5k5IwjQ)
+[https://youtu.be/rmlSk37btHA](https://youtu.be/rmlSk37btHA)
 
 ---
 
@@ -121,12 +121,12 @@ python setup_dummy_files.py --target test_files --count 50
 ---
 
 ## 📺 Video Demos
-
-* **Python Ransomware Simulation**
-  [https://www.youtube.com/watch?v=4ytj5k5IwjQ](https://www.youtube.com/watch?v=4ytj5k5IwjQ)
-
 * **Deep Freeze Setup & Restore**
-  [https://www.youtube.com/watch?v=e7SVAVdUW7I](https://www.youtube.com/watch?v=e7SVAVdUW7I)
+
+  [https://www.youtube.com/watch?v=4ytj5k5IwjQ](https://youtu.be/KnLWQDQDQmA)
+  
+* **Python Ransomware Simulation**
+  [https://youtu.be/rmlSk37btHA](https://youtu.be/rmlSk37btHA)
 
 *(You can download local copies into from repo for offline demos.)*
 
